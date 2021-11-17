@@ -1,0 +1,20 @@
+.cl1, .cl2 {
+    background-color: rgb(250, 206, 213);
+    font-family: Verdana, sans-serif;
+    font-size: 16px;
+}
+
+.cl2 { 
+    font-size: 24px;
+}
+
+#blueid {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#greenid {
+    background-color: rgb(139, 247, 139);
+    font-weight: bold;
+    font-size: 24px;
+}
